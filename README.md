@@ -75,7 +75,6 @@ This project automates the processing, extraction, classification, and intellige
 - Public API rate limiting.
 - Add performance dashboards (e.g., Supabase charts).
 - Divide the Main Workflow in sub-workflows
-- 
 
 ---
 
