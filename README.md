@@ -68,7 +68,7 @@ This project automates the processing, extraction, classification, and intellige
 
 ---
 
-##🤖 Where did I use AI
+## 🤖 Where did I use AI
 1. To create some shortcodes to improve my time efficiency
 2. Solve some errors
 3. Edit json data
