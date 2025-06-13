@@ -62,7 +62,8 @@ This project automates the processing, extraction, classification, and intellige
 1. Create your database in Supabase and run the SQL queries to create the tables
 2. Configure your Supabase Edge Functions as the Supabase API that I've uploaded .
 3. Connect N8N to Supabase,OpenAI and Google Drive.
-4. Deploy the N8N workflows:
+4. Create your venv and run the file whisper_api.py locally (to enable audio transcriptions)
+5. Deploy the N8N workflows:
    - OCR + Transcription Extraction + Embeddings + Similarity Search
    - Error Logging & Alerts
 
