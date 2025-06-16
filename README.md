@@ -4,6 +4,12 @@ This project automates the processing, extraction, classification, and intellige
 
 ---
 
+# 📽️ Youtube video explaining what was done 
+
+https://youtu.be/pd6Dzoym5rs
+
+---
+
 ## ✅ Features Implemented
 
 ### 1. **File Collection**
